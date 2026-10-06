@@ -1,4 +1,4 @@
-# dio-estudos-brain
+# dio-learning-expert
 
 > **Projeto:** Segundo Cérebro de Produtividade e Estudos  
 > **Ferramenta:** Gemini Notebook (NotebookLM)  
